@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://andrei-migunov.github.io/sitemap.xml
