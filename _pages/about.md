@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Drake University</a>. Assistant Professor of Computer Science
+subtitle: <a href='https://www.drake.edu/'>Drake University</a>. Assistant Professor of Computer Science
 
 profile:
   align: right
