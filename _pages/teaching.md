@@ -1,26 +1,32 @@
 ---
 layout: page
-permalink: /teaching/
 title: teaching
-description: Courses I have taught at Drake University
+permalink: /teaching/
+description: Courses I've taught or am currently teaching
 nav: true
-nav_order: 5
-
-semester: Fall 2022
-    - CS 66: Computer Science II
-    - CS 137: Algorithm Analysis
-
-semester: Spring 2023
-    - CS 66: Computer Science II x2
-    - CS 139: Theory of Computation
-
-semester: Fall 2023
-    - MATH 54: Discrete Mathematics
-    - CS 137: Algorithm Analysis
+nav_order: 2
+display_categories: 
+horizontal: false
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
-
-
+<!-- pages/teaching.md -->
+<div class="teaching">
+<!-- Display teaching without categories -->
+  {%- assign sorted_courses = site.teaching | sort: "semester" -%}
+  <!-- Generate cards for each course -->
+  {% if page.horizontal -%}
+  <div class="container">
+    <div class="row row-cols-2">
+    {%- for course in sorted_courses -%}
+      {% include teaching_horizontal.html %}
+    {%- endfor %}
+    </div>
+  </div>
+  {%- else -%}
+  <div class="grid">
+    {%- for course in sorted_courses -%}
+      {% include teaching.html %}
+    {%- endfor %}
+  </div>
+  {%- endif -%}
+</div>
