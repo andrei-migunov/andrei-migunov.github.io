@@ -18,7 +18,7 @@ You guessed it - under construction!
               <div class="row">
                 <div class="col-xs-2 cl-sm-2 col-md-2 text-center" style="width: 75px;">
                   <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px;">
-                  Fall 2021
+                  Fall 2022
                   </span>
                 </div>
                 <ul>
@@ -44,7 +44,7 @@ You guessed it - under construction!
               <div class="row">
                 <div class="col-xs-2 cl-sm-2 col-md-2 text-center" style="width: 75px;">
                   <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px;">
-                  Spring 2021
+                  Spring 2023
                   </span>
                 </div>
                 <ul>
@@ -73,7 +73,7 @@ You guessed it - under construction!
               <div class="row">
                 <div class="col-xs-2 cl-sm-2 col-md-2 text-center" style="width: 75px;">
                   <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px;">
-                  Fall 2020
+                  Fall 2023
                   </span>
                 </div>
                 <ul>
@@ -102,7 +102,7 @@ You guessed it - under construction!
               <div class="row">
                 <div class="col-xs-2 cl-sm-2 col-md-2 text-center" style="width: 75px;">
                   <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px;">
-                  Spring 2020
+                  Spring 2024
                   </span>
                 </div>
                 <ul>
