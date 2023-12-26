@@ -25,7 +25,6 @@ You guessed it - under construction!
                   <li>
                       <a href="https://andrei-migunov.github.io">CS 66: Computer Science II</a>
                                    
-                      (2x)
                     
                   </li>
                   
@@ -60,7 +59,7 @@ You guessed it - under construction!
                   
                   <li>
                     
-                      <a href="https://andrei-migunov.github.io">CS 66: Introduction to Computer Science II</a>
+                      <a href="https://andrei-migunov.github.io">CS 139: Theory of Computation</a>
                     
                     
                   </li>
@@ -80,7 +79,7 @@ You guessed it - under construction!
                   
                   <li>
                     
-                      CS 66: Introduction to Computer Science II
+                      MATH 054: Discrete Mathematics
                     
                     
                       (2x)
@@ -89,7 +88,7 @@ You guessed it - under construction!
                   
                   <li>
                     
-                      CS 139: Theory of Computation
+                      CS 137: Algorithm Analysis
                     
                     
                   </li>
@@ -109,24 +108,19 @@ You guessed it - under construction!
                   
                   <li>
                     
-                      <a href="https://andrei-migunov.github.io">MATH 54: Discrete Mathematics</a>
-                    
-                    
-                  </li>
-                  
-                  <li>
-                    
-                      CS 137: Algorithm Analysis
-                    
+                      <a href="https://andrei-migunov.github.io">CS 66: Intro to Computer Science II</a>
+                    (x2)
                     
                   </li>
                   
                   <li>
                     
-                      <a href="https://andrei-migunov.github.io">MATH 54: Discrete Mathematics</a>
+                      CS 135: Programming Languages
                     
                     
                   </li>
+                  
+     
                   
                 </ul>
               </div>
