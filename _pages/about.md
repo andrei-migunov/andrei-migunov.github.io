@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm Andrei - welcome to my site. I'm originally from Riga, Latvia and have been in the U.S. for most of my life. I received my Ph.D. in Computer Science from Iowa State University, and started teaching at Drake University just an hour South of ISU.
+I'm Andrei - welcome to my site. I'm originally from Riga, Latvia and have been in the U.S. for most of my life. I received my Ph.D. in Computer Science from Iowa State University in 2022, and shortly thereafter started teaching at Drake University in Des Moines, Iowa.
 
 I love my wife, my family, and my friends. I'm grateful to be able to spend my time doing mathematics and teaching the many brilliant and hard-working students I get to meet at Drake. 
 
