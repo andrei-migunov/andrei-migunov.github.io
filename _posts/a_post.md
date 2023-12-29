@@ -1,9 +1,9 @@
 ---
 layout: post
-title: i'm going to try to put some code here in Jupyter
+title: "i'm going to try to put some code here in Jupyter"
 date: 2023-12-24 08:57:00-0400
-description: this is an attempt by me to use this website (dangerous)
-tags: jupyter, python
+description: "this is an attempt by me to use this website (dangerous)"
+tags: 
 categories: posting
 giscus_comments: true
 related_posts: false
