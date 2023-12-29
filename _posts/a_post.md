@@ -15,8 +15,8 @@ To include a jupyter notebook in a post, you can use the following code:
 
 ```html
 {::nomarkdown}
-{% assign jupyter_path = "assets/jupyter/blog.ipynb" | relative_url %}
-{% capture notebook_exists %}{% file_exists assets/jupyter/blog.ipynb %}{% endcapture %}
+{% assign jupyter_path = "assets/jupyter/jupytesting.ipynb" | relative_url %}
+{% capture notebook_exists %}{% file_exists assets/jupyter/jupytesting.ipynb %}{% endcapture %}
 {% if notebook_exists == "true" %}
     {% jupyter_notebook jupyter_path %}
 {% else %}
