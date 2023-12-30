@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: anything goes
-date: 2023-12-24 08:57:00-0400
+date: 2023-12-29 08:57:00-0400
 description: Ian James Kidd on Feyerabend
 tags: 
 categories: philosophy of science
