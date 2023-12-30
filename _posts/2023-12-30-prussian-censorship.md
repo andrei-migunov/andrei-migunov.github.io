@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: anything goes
+title: Marx on Prussian Censorship
 date: 2023-12-30 08:57:00-0400
 description: Marx on Prussian Censorship
 tags: 
