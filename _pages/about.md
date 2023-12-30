@@ -20,7 +20,7 @@ I'm Andrei - welcome to my site. I'm originally from Riga, Latvia and have been 
 
 I love my wife, my family, and my friends. I'm grateful to be able to spend my time doing mathematics and teaching the many brilliant and hard-working students I get to meet at Drake. 
 
-This page is *very* under-construction. Much of what is in here is from the template. But feel free to look around, and over time it will be less confusing and deceiving.
+This page is *very much* under-construction, but feel free to look around.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
