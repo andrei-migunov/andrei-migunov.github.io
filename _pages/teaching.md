@@ -9,7 +9,8 @@ display_categories:
 horizontal: false
 ---
 
-You guessed it - under construction!
+<article>
+<div class="cv">
 <div class="card mt-3 p-3">
       <h3 class="card-title font-weight-medium">Drake University</h3>
       <div>
@@ -131,3 +132,5 @@ You guessed it - under construction!
         </ul>
       </div>
     </div>
+    </div>
+    </article>
