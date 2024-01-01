@@ -67,7 +67,7 @@
 #       items: 
 #         - Max Planck Medal
 
-- title: Organizing
+- title: Other
   type: nested_list
   contents:
     - title: Drake University Unconventional Computation Seminar
@@ -76,7 +76,7 @@
         - A mostly undergraduate research seminar for informal study of analog and other unconventional types of computing, and related topics.
     - title: Drake Mathematics and Computer Science Departmental Seminar
       items:
-        - 2022-Present
+        - 2022-Present (jointly with Vira Babenko)
         - A departmental seminar that hosts speakers mainly from other universities, on Math and CS topics.
 
 # - title: Other Interests
