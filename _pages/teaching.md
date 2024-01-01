@@ -24,14 +24,14 @@ horizontal: false
                 </div>
                 <ul>
                   <li>
-                      <a href="https://andrei-migunov.github.io">CS 66: Computer Science II</a>
+                      <a>CS 66: Computer Science II</a>
                                    
                     
                   </li>
                   
                   <li>
                     
-                      <a href="https://andrei-migunov.github.io">CS 137: Algorithm Analysis</a>
+                      <a>CS 137: Algorithm Analysis</a>
                     
                     
                   </li>
@@ -51,7 +51,7 @@ horizontal: false
                   
                   <li>
                     
-                      <a href="https://andrei-migunov.github.io">CS 66: Introduction to Computer Science II</a>
+                      <a">CS 66: Introduction to Computer Science II</a>
                     
                     
                       (2x)
@@ -60,7 +60,7 @@ horizontal: false
                   
                   <li>
                     
-                      <a href="https://andrei-migunov.github.io">CS 139: Theory of Computation</a>
+                      <a>CS 139: Theory of Computation</a>
                     
                     
                   </li>
