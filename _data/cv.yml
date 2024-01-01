@@ -67,17 +67,17 @@
 #       items: 
 #         - Max Planck Medal
 
-# - title: Academic Interests
-#   type: nested_list
-#   contents:
-#     - title: Topic 1.
-#       items: 
-#         - Description 1.
-#         - Description 2.
-#     - title: Topic 2.
-#       items:
-#         - Description 1.
-#         - Description 2.
+- title: Organizing
+  type: nested_list
+  contents:
+    - title: Drake University Unconventional Computation Seminar
+      items: 
+        - 2022-Present
+        - A mostly undergraduate research seminar for informal study of analog and other unconventional types of computing, and related topics.
+    - title: Drake Mathematics and Computer Science Departmental Seminar
+      items:
+        - 2022-Present
+        - A departmental seminar that hosts speakers mainly from other universities, on Math and CS topics.
 
 # - title: Other Interests
 #   type: list
