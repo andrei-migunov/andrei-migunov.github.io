@@ -9,7 +9,8 @@ display_categories:
 horizontal: false
 ---
 
-You guessed it - under construction!
+<article>
+<div class="cv">
 <div class="card mt-3 p-3">
       <h3 class="card-title font-weight-medium">Drake University</h3>
       <div>
@@ -23,14 +24,14 @@ You guessed it - under construction!
                 </div>
                 <ul>
                   <li>
-                      <a href="https://andrei-migunov.github.io">CS 66: Computer Science II</a>
+                      <a>CS 66: Computer Science II</a>
                                    
                     
                   </li>
                   
                   <li>
                     
-                      <a href="https://andrei-migunov.github.io">CS 137: Algorithm Analysis</a>
+                      <a>CS 137: Algorithm Analysis</a>
                     
                     
                   </li>
@@ -50,7 +51,7 @@ You guessed it - under construction!
                   
                   <li>
                     
-                      <a href="https://andrei-migunov.github.io">CS 66: Introduction to Computer Science II</a>
+                      <a">CS 66: Introduction to Computer Science II</a>
                     
                     
                       (2x)
@@ -59,7 +60,7 @@ You guessed it - under construction!
                   
                   <li>
                     
-                      <a href="https://andrei-migunov.github.io">CS 139: Theory of Computation</a>
+                      <a>CS 139: Theory of Computation</a>
                     
                     
                   </li>
@@ -131,3 +132,5 @@ You guessed it - under construction!
         </ul>
       </div>
     </div>
+    </div>
+    </article>
