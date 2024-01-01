@@ -8,7 +8,7 @@ categories: philosophy of science
 related_posts: false
 ---
 
-I'm a very big fan of philosopher of science Paul Feyerabend. I admire his ideas and largely agree with them, and I adore his humor (which is the best quality of a philosopher and comes out especially in his letters with Imre Lakatos - the collection of these letters is available as <i>For and Against Method</i>). Ian James Kidd wrote a great article during the tail end of the pandemic, linked below, with an excerpt on Feyerabend's (in)famous phrase "anything goes".
+I'm a very big fan of philosopher of science Paul Feyerabend. I admire his ideas and largely agree with them, and I adore his humor (which is the best quality of a philosopher and comes out especially in his letters with Imre Lakatos - the collection of these letters is available as <i>For and Against Method</i>). Ian James Kidd wrote a great article during the tail end of the pandemic linked below, with an excerpt on Feyerabend's (in)famous phrase "anything goes".
 
 Ian James Kidd (https://medium.com/@ian.kidd/following-the-science-some-feyerabendian-reflections-c85a4bab7c98)
 
