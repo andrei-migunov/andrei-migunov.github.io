@@ -51,7 +51,7 @@ horizontal: false
                   
                   <li>
                     
-                      <a">CS 66: Introduction to Computer Science II</a>
+                      <a>CS 66: Introduction to Computer Science II</a>
                     
                     
                       (2x)
@@ -109,7 +109,7 @@ horizontal: false
                   
                   <li>
                     
-                      <a href="https://andrei-migunov.github.io">CS 66: Intro to Computer Science II</a>
+                      <a>CS 66: Intro to Computer Science II</a>
                     (x2)
                     
                   </li>
