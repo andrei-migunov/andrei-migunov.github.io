@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://www.drake.edu/'>Drake University</a>. Assistant Professor of Computer Science
 
