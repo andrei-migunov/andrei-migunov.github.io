@@ -22,4 +22,4 @@ I love my wife, my family, and my friends. I'm grateful to be able to spend my t
 
 This page is *very much* under-construction, but feel free to look around.
 
->Donate to [Des Moines Mutual Aid](https://iowamutualaid.org/des-moines-mutual-aid) and help keep our houseless neighbors warm through the winter. DMMA has no paid staff and never will - all of your donation goes directly to keeping people warm. $14 keeps one person warm in an average tent for one week. Anything helps : [Donate](https://iowamutualaid.org/camper-solidarity). 
+>[Donate](https://iowamutualaid.org/camper-solidarity) to [Des Moines Mutual Aid](https://iowamutualaid.org/des-moines-mutual-aid) and help keep our houseless neighbors warm through the winter. DMMA has no paid staff and never will - all of your donation goes directly to keeping people warm. $14 keeps one person warm in an average tent for one week. It is not easy to comprehend just how cold it is outside - anything helps. 
