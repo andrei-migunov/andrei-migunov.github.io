@@ -9,24 +9,24 @@
 - title: Education
   type: time_table
   contents:
-  - title: B.S. Computer Science, Philosophy
+    - title: B.S. Computer Science, Philosophy
       institution: Iowa State University
       year: 2014
-      
-  - title: PhD - Computer Science
-    institution: Iowa State University
-    year: 2022
-    description:
-      - Randomness and dimension in computational learning and analog computation
-      - Advised by Jack H. Lutz
+
+    - title: PhD - Computer Science
+      institution: Iowa State University
+      year: 2022
+      description:
+        - Randomness and dimension in computational learning and analog computation
+        - Advised by Jack H. Lutz
 
 - title: Experience
   type: time_table
   contents:
-  - title: Associate IT Developer, then IT Developer
-      institution: Medtronic plc
-      year: 2014-2016
-      description: Mobile and cross-platform application development.
+    - title: Associate IT Developer, then IT Developer
+        institution: Medtronic plc
+        year: 2014 - 2016
+        description: Mobile and cross-platform application development.
 
 
 
