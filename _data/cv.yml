@@ -12,13 +12,13 @@
   - title: B.S. Computer Science, Philosophy
       institution: Iowa State University
       year: 2014
-
-    - title: PhD - Computer Science
-      institution: Iowa State University
-      year: 2022
-      description:
-        - Randomness and dimension in computational learning and analog computation
-        - Advised by Jack H. Lutz
+      
+  - title: PhD - Computer Science
+    institution: Iowa State University
+    year: 2022
+    description:
+      - Randomness and dimension in computational learning and analog computation
+      - Advised by Jack H. Lutz
 
 - title: Experience
   type: time_table
