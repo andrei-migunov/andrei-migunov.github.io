@@ -29,6 +29,15 @@
       description: Mobile and cross-platform application development.
 
 
+- title: Other
+  type: time_table
+  contents:
+    - title: Drake University Unconventional Computation Seminar
+      year: 2022-Present
+      description: A mostly undergraduate research seminar for informal study of analog and other unconventional types of computing, and related topics.
+    - title: Drake Mathematics and Computer Science Departmental Seminar
+      year: 2022-Present (jointly with Vira Babenko)
+      description: A departmental seminar that hosts speakers mainly from other universities, on Math and CS topics.
 
 # - title: Experience
 #   type: time_table
@@ -81,15 +90,6 @@
 #       items: 
 #         - Max Planck Medal
 
-- title: Other
-  type: nested_list
-  contents:
-    - title: Drake University Unconventional Computation Seminar
-      year: 2022-Present
-      items: A mostly undergraduate research seminar for informal study of analog and other unconventional types of computing, and related topics.
-    - title: Drake Mathematics and Computer Science Departmental Seminar
-      year: 2022-Present (jointly with Vira Babenko)
-      items: A departmental seminar that hosts speakers mainly from other universities, on Math and CS topics.
 
 # - title: Other Interests
 #   type: list
