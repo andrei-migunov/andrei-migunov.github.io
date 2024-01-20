@@ -13,13 +13,13 @@ This little creature on my leg is Gizmo. My mom found him outside of her workpla
 A couple more pictures of Gizmo, below. The following picture is Mara. She's an angel. I was surprised my landlord during grad school let me keep her in my apartment. She was my roommate during gradschool, and I love her so much. She actually did most of my dissertation work (I can now admit this without any liability). The last picture is Christopher, my first pet. He was very old, and grumpy, and passed recently. He is missed.
 
 
-![Sleepy](/assets/gizmo2.jpg)
+![Sleepy](/assets/gizmo2.jpeg)
 
 
-![Bop](/assets/gizmo3.jpg)
+![Bop](/assets/gizmo3.jpeg)
 
 
-![Mara](/assets/mara.jpg)
+![Mara](/assets/mara.jpeg)
 
 
-![Christopher](/assets/christopher.jpg)
+![Christopher](/assets/christopher.jpeg)
