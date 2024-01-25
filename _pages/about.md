@@ -20,6 +20,5 @@ I'm Andrei - welcome to my site. I'm originally from Riga, Latvia and have been 
 
 I love my wife, my family, and my friends. I'm grateful to be able to spend my time doing mathematics and teaching the many brilliant and hard-working students I get to meet at Drake. 
 
-This page is *very much* under-construction, but feel free to look around.
 
 >[Donate](https://iowamutualaid.org/camper-solidarity) to [Des Moines Mutual Aid](https://iowamutualaid.org/des-moines-mutual-aid) and help keep our houseless neighbors warm through the winter. DMMA has no paid staff and never will - all of your donation goes directly to keeping people warm. $14 keeps one person warm in an average tent for one week. It is not easy to comprehend just how cold it is outside - anything helps. 
