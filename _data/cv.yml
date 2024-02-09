@@ -32,9 +32,9 @@
 - title: Other
   type: time_table
   contents:
-    - title: Drake University Unconventional Computation Seminar
+    - title: Drake University Unconventional Computation Seminar 
       year: 2022-Present
-      description: A mostly undergraduate research seminar for informal study of analog and other unconventional types of computing, and related topics.
+      description: A mostly undergraduate research seminar for informal study of <a href="https://analytics.drake.edu/~migunov/analog_intro/"> analog </a> and other unconventional types of computing, and related topics.
     - title: Drake Mathematics and Computer Science Departmental Seminar
       year: 2022-Present 
       description: (jointly with Vira Babenko) A departmental seminar that hosts speakers mainly from other universities, on Math and CS topics.
