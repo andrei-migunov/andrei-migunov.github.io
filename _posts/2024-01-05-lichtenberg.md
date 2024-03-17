@@ -2,7 +2,7 @@
 layout: distill
 title: I-think beliefs
 date: 2024-01-05 08:57:00-0400
-description: Lichtenstein
+description: Lichtenberg
 tags: 
 categories: belief
 related_posts: false
