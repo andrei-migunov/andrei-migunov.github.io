@@ -1,14 +1,14 @@
 ---
 layout: post
 title: CRN, ODE, and PP Examples
-date: 2024-02-23 08:57:00-0400
+date: 2024-04-10 08:57:00-0400
 description: A growing list of examples relating to CRNs, ODEs, PPs
 tags: 
 categories: 
 related_posts: false
 ---
 
-(to be updated, over time). Download these notes here: [Examples](https://andrei-migunov.github.io/assets/jupyter/Examples.ipynb "download")
+Download these notes here: [Examples](https://andrei-migunov.github.io/assets/jupyter/Examples.ipynb "download")
 
 {::nomarkdown}
 {% assign jupyter_path = "assets/jupyter/Examples.ipynb" | relative_url %}
