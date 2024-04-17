@@ -23,11 +23,13 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Assistant Professor of Computer Science
+      institution: Drake University
+      year: 2022 - Present
     - title: Associate IT Developer, then IT Developer
       institution: Medtronic plc
       year: 2014 - 2016
       description: Mobile and cross-platform application development.
-
 
 - title: Other
   type: time_table
