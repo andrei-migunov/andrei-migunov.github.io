@@ -110,7 +110,7 @@ horizontal: false
                   <li>
                     
                       <a>CS 66: Intro to Computer Science II</a>
-                    (x2)
+                    (2x)
                     
                   </li>
                   
