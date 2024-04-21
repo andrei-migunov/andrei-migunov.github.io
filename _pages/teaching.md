@@ -24,7 +24,7 @@ horizontal: false
                 </div>
                 <ul>
                   <li>
-                      <a>CS 66: Computer Science II</a>
+                      <a>CS 66: Introduction to Computer Science II</a>
                                    
                     
                   </li>
@@ -128,6 +128,37 @@ horizontal: false
             </li>
           
 
+            <li class="list-group-item">
+              <div class="row">
+                <div class="col-xs-2 cl-sm-2 col-md-2 text-center" style="width: 75px;">
+                  <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px;">
+                  Fall 2024
+                  </span>
+                </div>
+                <ul>
+                  
+                  <li>
+                    
+                      <a>    MATH 054: Discrete Mathematics
+                    
+                    
+                      (2x) </a>
+                    
+                    
+                  </li>
+                  
+                  <li>
+                    
+                      First-year Seminar: Aesthetics of Computing
+                    
+                    
+                  </li>
+                  
+     
+                  
+                </ul>
+              </div>
+            </li>
           
         </ul>
       </div>
