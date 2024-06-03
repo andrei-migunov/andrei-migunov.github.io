@@ -149,7 +149,7 @@ horizontal: false
                   
                   <li>
                     
-                      First-year Seminar: Aesthetics of Computing
+                      <a href="https://analytics.drake.edu/~migunov/FYS-AOFC/index">(Seminar) Aesthetics of Computing</a>
                     
                     
                   </li>
