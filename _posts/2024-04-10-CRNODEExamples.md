@@ -14,8 +14,11 @@ Anyway. Undoubtedly, <i> All Hallows </i> is one of the best AFI records - and i
 
 <i> Sing the Sorrow </i> got me into AFI when I was about 12 years old or so. This band 'changed my life' in a way that happens a lot more when you're that young. Downstream of this are all of my musical preference that persist to this day. The <i>All Hollows</i> EP shored that up, in particular this song. The Halloween vibes of this album are classic, and immaculate. Happy Halloween! 
 
-<iframe width="560" height="315"
+
+[![alt text](https://img.youtube.com/vi/video-id/0.jpg)](https://www.youtube.com/watch?v=ibgIyLR2ZGs)
+
+<!-- <iframe width="560" height="315"
 src="https://www.youtube.com/watch?v=ibgIyLR2ZGs" 
 frameborder="0" 
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+allowfullscreen></iframe> -->
