@@ -22,9 +22,3 @@ Anyway, I'd listen to the whole thing front to back in this case: but if you're 
 
 [![Lonely People With Power](https://upload.wikimedia.org/wikipedia/en/3/37/Lonely_People_with_Power_Deafheaven_album_cover.jpg)](https://www.youtube.com/watch?v=qbt2B65JPEY "Winona")
 
-<!-- <iframe width="560" height="315"
-src="https://www.youtube.com/watch?v=ibgIyLR2ZGs" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe> -->
-
