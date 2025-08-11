@@ -182,7 +182,10 @@ horizontal: false
                     
                     
                   </li>
+        </ul>
+      </div>
 
+      
                   <li class="list-group-item">
               <div class="row">
                 <div class="col-xs-2 cl-sm-2 col-md-2 text-center" style="width: 75px;">
@@ -211,8 +214,6 @@ horizontal: false
                 </ul>
               </div>
             </li>
-        </ul>
-      </div>
     </div>
     </div>
     </article>
