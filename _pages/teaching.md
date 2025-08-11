@@ -182,6 +182,29 @@ horizontal: false
                     
                     
                   </li>
+
+                  <li class="list-group-item">
+              <div class="row">
+                <div class="col-xs-2 cl-sm-2 col-md-2 text-center" style="width: 75px;">
+                  <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px;">
+                  Spring 2025
+                  </span>
+                </div>
+                <ul>
+                  
+                  <li>
+                    
+                      <a>CS 137: Algorithm Analysis (2x)</a>
+                    
+                    
+                  </li>
+                  
+                  <li>
+                    
+                      <a>(Seminar) Aesthetics of Computing</a>
+                    
+                    
+                  </li>
                   
      
                   
