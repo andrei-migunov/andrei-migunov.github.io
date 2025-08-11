@@ -24,22 +24,14 @@ horizontal: false
                 </div>
                 <ul>
                   <li>
-                      <a>CS 66: Introduction to Computer Science II</a>
-                                   
-                    
+                      <a>CS 66: Introduction to Computer Science II</a>                    
                   </li>
-                  
-                  <li>
-                    
+                                    <li>
                       <a>CS 137: Algorithm Analysis</a>
-                    
-                    
                   </li>
-                  
                 </ul>
               </div>
             </li>
-          
             <li class="list-group-item">
               <div class="row">
                 <div class="col-xs-2 cl-sm-2 col-md-2 text-center" style="width: 75px;">
@@ -48,28 +40,16 @@ horizontal: false
                   </span>
                 </div>
                 <ul>
-                  
                   <li>
-                    
-                      <a>CS 66: Introduction to Computer Science II</a>
-                    
-                    
-                      (2x)
-                    
+                      <a>CS 66: Introduction to Computer Science II (2x)</a>                      
+                                    </li>
+                                    <li>
+                                          <a>CS 139: Theory of Computation</a>               
                   </li>
-                  
-                  <li>
-                    
-                      <a>CS 139: Theory of Computation</a>
-                    
-                    
-                  </li>
-                  
-                </ul>
+                                  </ul>
               </div>
             </li>
-          
-            <li class="list-group-item">
+                      <li class="list-group-item">
               <div class="row">
                 <div class="col-xs-2 cl-sm-2 col-md-2 text-center" style="width: 75px;">
                   <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px;">
@@ -77,28 +57,16 @@ horizontal: false
                   </span>
                 </div>
                 <ul>
-                  
-                  <li>
-                    
-                      MATH 054: Discrete Mathematics
-                    
-                    
-                      (2x)
-                    
+                                    <li>
+                                          MATH 054: Discrete Mathematics (2x)                    
                   </li>
-                  
-                  <li>
-                    
-                      CS 137: Algorithm Analysis
-                    
-                    
-                  </li>
-                  
-                </ul>
+                                    <li>
+                                          CS 137: Algorithm Analysis                   
+                                    </li>
+                                  </ul>
               </div>
             </li>
-          
-            <li class="list-group-item">
+                      <li class="list-group-item">
               <div class="row">
                 <div class="col-xs-2 cl-sm-2 col-md-2 text-center" style="width: 75px;">
                   <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px;">
@@ -106,28 +74,16 @@ horizontal: false
                   </span>
                 </div>
                 <ul>
-                  
-                  <li>
-                    
+                                    <li>
                       <a>CS 66: Intro to Computer Science II</a>
                     (2x)
-                    
                   </li>
-                  
-                  <li>
-                    
-                      CS 135: Programming Languages
-                    
-                    
+                                    <li>
+                                          CS 135: Programming Languages                                        
                   </li>
-                  
-     
-                  
                 </ul>
               </div>
             </li>
-          
-
             <li class="list-group-item">
               <div class="row">
                 <div class="col-xs-2 cl-sm-2 col-md-2 text-center" style="width: 75px;">
@@ -136,30 +92,16 @@ horizontal: false
                   </span>
                 </div>
                 <ul>
-                  
                   <li>
-                    
                       <a>    MATH 054: Discrete Mathematics
-                    
-                    
                       (2x) </a>
-                    
-                    
                   </li>
-                  
-                  <li>
-                    
-                      <a href="https://analytics.drake.edu/~migunov/FYS-AOFC/index">(Seminar) Aesthetics of Computing</a>
-                    
-                    
-                  </li>
-                  
-     
-                  
+                                <li>
+                                          <a href="https://analytics.drake.edu/~migunov/FYS-AOFC/index">(Seminar) Aesthetics of Computing</a>                                       
+                  </li>                                    
                 </ul>
               </div>
-            </li>
-          
+            </li>          
           <li class="list-group-item">
               <div class="row">
                 <div class="col-xs-2 cl-sm-2 col-md-2 text-center" style="width: 75px;">
@@ -167,50 +109,33 @@ horizontal: false
                   Spring 2025
                   </span>
                 </div>
-                <ul>
-                  
-                  <li>
-                    
-                      <a>CS 66: Intro to Computer Science II</a>
-                    
-                    
-                  </li>
-                  
-                  <li>
-                    
-                      <a>CS 67: Object-Oriented Programming</a>
-                    
-                    
+                <ul>                  
+                  <li>                    
+                      <a>CS 66: Intro to Computer Science II</a>                  
+                                      </li>
+                                    <li>
+                                          <a>CS 67: Object-Oriented Programming</a>                                        
                   </li>
         </ul>
-      </div>
-
-      
-                  <li class="list-group-item">
+      </div>      
+            <li class="list-group-item">
               <div class="row">
                 <div class="col-xs-2 cl-sm-2 col-md-2 text-center" style="width: 75px;">
                   <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px;">
                   Fall 2025
                   </span>
-                </div>
-                <ul>
-                  
-                  <li>
-                    
-                      <a>CS 137: Algorithm Analysis (2x)</a>
-                    
-                    
-                  </li>
-                  
-                  <li>
-                    
-                      <a>(Seminar) Aesthetics of Computing</a>
-                    
-                    
-                  </li>
+                </div>                
+                <ul>                  
+                  <li>                    
+                      <a>CS 137: Algorithm Analysis (2x)</a>                   
+                                      </li>                  
+                  <li>                    
+                      <a>(Seminar) Aesthetics of Computing</a>                   
+                                      </li>
                 </ul>
-
               </div>
             </li>
+     </ul>       
+    </div>
     </div>
     </article>
