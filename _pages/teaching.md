@@ -208,12 +208,9 @@ horizontal: false
                     
                     
                   </li>
-                  
-     
-                  
                 </ul>
+
               </div>
             </li>
-    </div>
     </div>
     </article>
