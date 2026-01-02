@@ -111,7 +111,7 @@ horizontal: false
                 </div>
                 <ul>                  
                   <li>                    
-                      <a>CS 66: Intro to Computer Science II</a>                  
+                      <a>CS 66: Intro to Computer Science II (2x)</a>                  
                                       </li>
                                     <li>
                                           <a>CS 67: Object-Oriented Programming</a>                                        
@@ -132,6 +132,23 @@ horizontal: false
                                       </li>                  
                   <li>                    
                       <a>(Seminar) Aesthetics of Computing</a>                   
+                                      </li>
+                </ul>
+              </div>
+            </li>            
+            <li class="list-group-item">
+              <div class="row">
+                <div class="col-xs-2 cl-sm-2 col-md-2 text-center" style="width: 75px;">
+                  <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px;">
+                  Spring 2026
+                  </span>
+                </div>                
+                <ul>                  
+                  <li>                    
+                      <a>CS 66: Intro to Computer Science II (2x)</a>                   
+                                      </li>                  
+                  <li>                    
+                      <a>CS 139: Theory of Computation</a>                   
                                       </li>
                 </ul>
               </div>
