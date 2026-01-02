@@ -153,7 +153,8 @@ horizontal: false
                 </ul>
               </div>
             </li>
-     </ul>       
+      </ul>       
     </div>
-    </div>
-    </article>
+  </div>
+  </div>
+</article>
