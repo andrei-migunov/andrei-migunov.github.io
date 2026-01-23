@@ -20,4 +20,4 @@ I'm Andrei - welcome to my site. I'm originally from Riga, Latvia and have been 
 
 I love my wife, my family, and my friends. I'm grateful to be able to spend my time doing mathematics and teaching the many brilliant and hard-working students I get to meet at Drake. 
 
-
+I find it easier to connect with people over music than any other thing. My Bandcamp profile is here: https://bandcamp.com/amigunov . 
