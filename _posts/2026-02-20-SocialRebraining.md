@@ -8,7 +8,7 @@ categories:
 related_posts: false
 ---
 
-I only want to share here a segment from this excellent article by Omar Hernandez in the Brooklyn Rail's Field Notes section:
+I only want to share here a couple of segments from this excellent article by Omar Hernandez in the Brooklyn Rail's Field Notes section:
 
 The article is titled [*Social Debraining*](https://brooklynrail.org/2026/02/field-notes/social-debraining/).
 
