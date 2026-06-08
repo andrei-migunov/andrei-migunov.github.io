@@ -97,7 +97,7 @@ horizontal: false
                       (2x) </a>
                   </li>
                                 <li>
-                                          <a href="https://analytics.drake.edu/~migunov/FYS-AOFC/index">(Seminar) Aesthetics of Computing</a>                                       
+                                          <a>(Seminar) Aesthetics of Computing</a>                                       
                   </li>                                    
                 </ul>
               </div>
@@ -153,6 +153,24 @@ horizontal: false
                 </ul>
               </div>
             </li>
+            <li class="list-group-item">
+              <div class="row">
+                <div class="col-xs-2 cl-sm-2 col-md-2 text-center" style="width: 75px;">
+                  <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px;">
+                  Fa;; 2026
+                  </span>
+                </div>                
+                <ul>                  
+                  <li>                    
+                      <a>CS 66: Intro to Computer Science II</a>                   
+                                      </li>                  
+                  <li>                    
+                      <a href="https://analytics.drake.edu/~migunov/CS87/index">CS 87: Aesthetics of Computation</a>                   
+                                      </li>
+                </ul>
+              </div>
+            </li>
+      </ul>       
       </ul>       
     </div>
   </div>
