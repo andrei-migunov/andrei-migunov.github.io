@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: I'm a computer scientist and currently Assistant Professor of Computer Science at <a href='https://www.drake.edu/'>Drake University</a>. 
+subtitle: Hi! I'm Andrei. I'm a computer scientist and currently Assistant Professor of Computer Science at <a href='https://www.drake.edu/'>Drake University</a>. 
 
 profile:
   align: right
@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Andrei! I'm originally from Riga, Latvia and have been in the U.S. for most of my life. I received my Ph.D. in Computer Science from Iowa State University in 2022, and then started teaching at Drake University in Des Moines, Iowa.
+I'm originally from Riga, Latvia and have been in the U.S. for most of my life. I received my Ph.D. in Computer Science from Iowa State University in 2022, and then started teaching at Drake University in Des Moines, Iowa.
 
 Disclaimer: My views expressed on this site are not affiliated, for good or bad, with my employer. 
 
