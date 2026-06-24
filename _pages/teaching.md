@@ -157,7 +157,7 @@ horizontal: false
               <div class="row">
                 <div class="col-xs-2 cl-sm-2 col-md-2 text-center" style="width: 75px;">
                   <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px;">
-                  Fa;; 2026
+                  Fall 2026
                   </span>
                 </div>                
                 <ul>                  
@@ -170,7 +170,7 @@ horizontal: false
                 </ul>
               </div>
             </li>
-      </ul>       
+             
       </ul>       
     </div>
   </div>

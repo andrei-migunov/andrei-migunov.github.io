@@ -22,6 +22,7 @@ Disclaimer: My views expressed on this site are not affiliated, for good or bad,
 
 Lately I've been interested in 
 * `molecular programming` and continuous computation (a persistent interest)
+* `algorithmic randomness and dimension` 
 * `aesthetics of computing` (a new interest I discovered over the last couple of years, which seems to bind a lot of my non-CS interests together), 
 * `philosophy of science` (an interest older than my professional life, but my approaches to it veer too much into politics for it to be suitable to my professional work), and, most recently, 
 * `game design` (I am working on a text based adventure game, "artisinally" crafted by only my own brain with all its flaws and less-than-perfect foresight and design strategies).
