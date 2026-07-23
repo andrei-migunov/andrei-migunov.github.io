@@ -25,7 +25,7 @@ Lately I've been interested in
 * `algorithmic randomness and dimension` 
 * `aesthetics of computing` (a new interest I discovered over the last couple of years, which seems to bind a lot of my non-CS interests together), 
 * `philosophy of science` (an interest older than my professional life, but my approaches to it veer too much into politics for it to be suitable to my professional work), and, most recently, 
-* `game design` (I am working on a text based adventure game, "artisinally" crafted by only my own brain with all its flaws and less-than-perfect foresight and design strategies).
+* `game design` (I am working on a text based adventure game, "artisanally" crafted by only my own brain with all its flaws and less-than-perfect foresight and design strategies).
 
 I recently wrote a [zine](https://andrei-migunov.github.io/assets/pdf/InsertCoin1LongFormat.pdf "download pdf") (the first in a series). It turned out to be about the ethical content of artisinal and craft production. In the spirit of a zine, I wrote it in a day and it's as well-organized as it could become before my self-imposed 24 hour deadline for its printing. I would be happy to mail you a hard copy if you'd like one, as is tradition - just ask.
 
