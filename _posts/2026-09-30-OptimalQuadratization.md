@@ -11,17 +11,17 @@ related_posts: false
 
 Bychkov and Pogudin's paper *Optimal monomial quadratization for ODE systems* recently showed up in my life to solve a problem my friend and I had been working on for a while, and whose name (quadratization) we did not even know! It goes something like this:
 
-You have a system $\bf{x}$ of ODEs, with variables $x_1, x_2, ..., x_n$ that are all polynomial, autonomous, and first order. Let's say the degree of a monomial is the sum of the degrees of variables in the monomial, e.g. $deg(x^3y^2) = 5$. The right hand side, though polynomial, has no restriction on the degree of any of the monomials appearing there. So, you might see something like this :$$ x_7' = ... + x_8^2x_9^{12}x_{13}  +...$$
+You have a system ${x}$ of ODEs, with variables $x_1, x_2, ..., x_n$ that are all polynomial, autonomous, and first order. Let's say the degree of a monomial is the sum of the degrees of variables in the monomial, e.g. $deg(x^3y^2) = 5$. The right hand side, though polynomial, has no restriction on the degree of any of the monomials appearing there. So, you might see something like this :$$ x_7' = ... + x_8^2x_9^{12}x_{13}  +...$$
 It's a finite system, so it will of course have one or more maximal polynomials, thus there is a highest degree among them. Note, and this might matter later, that there might be different monomials that are 'incomparable' and share the highest degree:
 
- If $\bf{x}$ is a set of ODEs expressed as right hand sides that are sums of monomials $m$ then the set of incomparable terms (or peaks) of the system is the antichain 
+ If ${x}$ is a set of ODEs expressed as right hand sides that are sums of monomials $m$ then the set of incomparable terms (or peaks) of the system is the antichain 
     
-$peak(\bf{x}) =$ $\{m \mid \text{m in }\bf{x}$ and $\forall m' \neq m$ in $\bf{x},$ $m \not\leq m'$ and $m' \not\leq m\}$.
+$peak({x}) =$ $\{m \mid \text{m in }{x}$ and $\forall m' \neq m$ in ${x},$ $m \not\leq m'$ and $m' \not\leq m\}$.
 
 and that might have more than one monomial in it.
 ## The goal
 
-The goal (our application) is to transform $\bf{x}$ into a system of maximum degree equal to 2. So, how? 
+The goal (our application) is to transform ${x}$ into a system of maximum degree equal to 2. So, how? 
 
 The big trick (or family of tricks) is: substitute variables! If I make a new variable, for example $y_1 = x_8^2x_9^{12}x_{13}$ then I can freely rewrite the equation above as $$x_7' = ... + y_1 + ...$$ and problem solved? Of course not! Because the variable $y_1$, having been added to my system, must be defined in the ODE system, and it itself has to be quadratic. If we were to write out its own ODE, we'd get $$y_1' = 2x_8 \cdot x_8' \cdot x_9^{12} x_13 + ....$$ following the chain rule. In a sense this is even *worse* than the original situation we were in ($x_8'$ is going to contribute some potentially very high degree to this new ODE!)!
 
@@ -34,7 +34,7 @@ For example, we could also have split it up into these two terms: $m = x_8 x_9^6
 
 The authors express this as follows:
 
-If the system in question is $\bf{x} = f_1(\bf{x}), f_2(\bf{x}), ..., f_n(\bf{x})$ then let $D_i$ be the largest degree of the individual variable $x_i$ over all of the $f_i$. Then take the set $M$ of all conceivable monomials $x_1^{d_1} x_2^{d_2}....x_n^{d_n}$ where the $0 \leq d_i \leq D_i$. 
+If the system in question is ${x} = f_1({x}), f_2({x}), ..., f_n({x})$ then let $D_i$ be the largest degree of the individual variable $x_i$ over all of the $f_i$. Then take the set $M$ of all conceivable monomials $x_1^{d_1} x_2^{d_2}....x_n^{d_n}$ where the $0 \leq d_i \leq D_i$. 
 
 The 'right choices', which result in the fewest total new variables introduced into the system, for *decomposing the system* into degree 2 polynomials are somewhere in this set $M$ - the whole set of selections of monomials that account for both the original monomials and for new ones. This is the *optimal decomposition* or in the case of quadratizations, the *optimal quadratization*. 
 
@@ -43,9 +43,9 @@ But the catch is surprising! $M$ does not in general contain the optimal set of 
 
 Here's one way to put it:
     
-The *(bounded)* lattice at peak $\bf{a} = [i_1,i_2,...,i_n]$} is the partially ordered $(\leq)$ set $L(\bf{a})$ of all vectors $\bf{b} \in \mathbb{N}^n$ satisfying $\bf{b} \leq \bf{a}$. 
+The *(bounded)* lattice at peak ${a} = [i_1,i_2,...,i_n]$} is the partially ordered $(\leq)$ set $L({a})$ of all vectors ${b} \in \mathbb{N}^n$ satisfying ${b} \leq {a}$. 
 
-So another way to 'see' it is that $M$ defines a lattice, more specifically some overlapping lattices each terminating at the elements of $peaks(\bf{x})$, but that lattice lives inside the *simplex* $\Delta = \{ \bf{v} \in \mathbb{N}^n| \sum_i \bf{v}[i] \leq k\}$, where $k$ is the highest degree among monomials in the system. I'm just naming it $\Delta$ because its faces are triangles if there are only 3 variables. To see what I mean, look at some of these pictures. $\Delta$ is blue, peaks are red, lattices are orange. 
+So another way to 'see' it is that $M$ defines a lattice, more specifically some overlapping lattices each terminating at the elements of $peaks({x})$, but that lattice lives inside the *simplex* $\Delta = \{ {v} \in \mathbb{N}^n| \sum_i {v}[i] \leq k\}$, where $k$ is the highest degree among monomials in the system. I'm just naming it $\Delta$ because its faces are triangles if there are only 3 variables. To see what I mean, look at some of these pictures. $\Delta$ is blue, peaks are red, lattices are orange. 
 
 
 ![[assets/img/3simplex2.png]]
