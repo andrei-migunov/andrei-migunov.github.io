@@ -43,9 +43,9 @@ But the catch is surprising! $$M$$ does not in general contain the optimal set o
 
 Here's one way to put it:
     
-The *(bounded)* lattice at peak $$\bf{a} = [i_1,i_2,...,i_n]$$ is the partially ordered $$(\leq)$ set $L(\bf{a})$$ of all vectors $$\bf{b} \in \mathbb{N}^n$$ satisfying $$\bf{b} \leq \bf{a}$$. 
+The *(bounded)* lattice at peak $$\bf{a} = [i_1,i_2,...,i_n]$$ is the partially ordered $$(\leq)$$ set $$L(\bf{a})$$ of all vectors $$\bf{b} \in \mathbb{N}^n$$ satisfying $$\bf{b} \leq \bf{a}$$. 
 
-So another way to 'see' it is that $M$ defines a lattice, more specifically some overlapping lattices each terminating at the elements of $$peaks(\bf{x})$$, but that lattice lives inside the *simplex* $$\Delta = \{ \bf{v} \in \mathbb{N}^n| \sum_i \bf{v}[i] \leq k\}$$, where $$k$$ is the highest degree among monomials in the system. I'm just naming it $$\Delta$$ because its faces are triangles if there are only 3 variables. To see what I mean, look at some of these pictures. $$\Delta$$ is blue, peaks are red, lattices are orange. 
+So another way to 'see' it is that $$M$$ defines a lattice, more specifically some overlapping lattices each terminating at the elements of $$peaks(\bf{x})$$, but that lattice lives inside the *simplex* $$\Delta = \{ \bf{v} \in \mathbb{N}^n| \sum_i \bf{v}[i] \leq k\}$$, where $$k$$ is the highest degree among monomials in the system. I'm just naming it $$\Delta$$ because its faces are triangles if there are only 3 variables. To see what I mean, look at some of these pictures. $$\Delta$$ is blue, peaks are red, lattices are orange. 
 
 
 ![3-Simplex](/assets/img/3simplex2.png)
@@ -88,11 +88,11 @@ so it cannot be found by a search restricted to $$M$$.
 
 However, it *does* live in the associated simplex because the highest degree among all monomials in the original system is 4, and in the resulting system the highest degree is the same, and among new variables only 3.
 
-The authors mention that for their examples, the set $$\hat{M} = \{x_1^{d_1}...x_n^{d_n} | 0 \leq d_1,....,d_n \leq D\},$$ where $D = \max_i D_i$ was sufficient. I'd be surprised if this is the case in general, I think! Note that $\hat{M} \subset\Delta$ . 
+The authors mention that for their examples, the set $$\hat{M} = \{x_1^{d_1}...x_n^{d_n} | 0 \leq d_1,....,d_n \leq D\},$$ where $$D = \max_i D_i$$ was sufficient. I'd be surprised if this is the case in general, I think! Note that $$\hat{M} \subset\Delta$$ . 
 
 I'm not sure I see it - but I'm also kind of slow to pick up on things. So that's *not* a claim about anything but me, at this moment of typing.
 
-A natural question is: is there any benefit to going outside of $\hat{M}$ ever? (or hell, why not leave the simplex too? go wild) If we have a monomial in the original system of degree, say, 17 - is there any utility in introducing a term of degree, say, 18? Or perhaps for a monomial like $x^{15}$ is it worth going up to the nearest power of 2 above, allowing one to repeatedly halve powers 'downward'? Can you find $\epsilon$-good decompositions doing this that aren't optimal, even if the optimal ones - which might be hard to find in general - always live inside $\hat{M}$ (yet to be established for sure)? 
+A natural question is: is there any benefit to going outside of $$\hat{M}$$ ever? (or hell, why not leave the simplex too? go wild) If we have a monomial in the original system of degree, say, 17 - is there any utility in introducing a term of degree, say, 18? Or perhaps for a monomial like $$x^{15}$$ is it worth going up to the nearest power of 2 above, allowing one to repeatedly halve powers 'downward'? Can you find $$\epsilon$$-good decompositions doing this that aren't optimal, even if the optimal ones - which might be hard to find in general - always live inside $$\hat{M}$$ (yet to be established for sure)? 
 
 Anyway
 
@@ -100,8 +100,8 @@ Their approach goes something like this:
 
 1. Follow a branch and bound strategy exploring the space of all possible quadratizations, with the objective function seeking the fewest number of new variables to be introduced. 
    
-2. Each subproblem consists of the the variable set $V$ containing $1, x_1, ..., x_n, z_1, ..., z_l$ where $z_i$ are the new variables, and the set $NS$ which contains all monomials appearing in any derivative of any variable in $V$ which can't be expressed as a product of two elements of $V$. For example, if $z_1 = x^3$ then $$z_1' = 3x^2 x' = 3x^6 + 5x^5$$ and since $x^5$ cannot be expressed as any two-element product of $\{1,x,x^3\}$, it goes to variable jail. If $NS$ is empty, then $V$ is a quadratization.
+2. Each subproblem consists of the the variable set $$V$$ containing $$1, x_1, ..., x_n, z_1, ..., z_l$$ where $$z_i$$ are the new variables, and the set $$NS$$ which contains all monomials appearing in any derivative of any variable in $$V$$ which can't be expressed as a product of two elements of $$V$$. For example, if $$z_1 = x^3$$ then $$z_1' = 3x^2 x' = 3x^6 + 5x^5$$ and since $$x^5$$ cannot be expressed as any two-element product of $$\{1,x,x^3\}$$, it goes to variable jail. If $$NS$$ is empty, then $$V$$ is a quadratization.
 
-3. Subproblems are constructed based on NS by picking an element $m = x_1^{d_1}....x_n^{d_n}$  from $NS$ that minimizes $\prod_i^n (d_i + 1)$ . This "incentivizes" choosing a monomial where some of the individual degrees are minimal and others are larger. Note that (looking at monomials as tuples again,) (2,3,2) is a worse choice than (1,4,2). Whatever monomial is chosen, look at every decomposition of that monomial into $m = m_1m_2$. Define a new subproblem for each such decomposition by adding $\{m_1,m_2\}\setminus V$ to the variable set.
+3. Subproblems are constructed based on NS by picking an element $$m = x_1^{d_1}....x_n^{d_n}$$  from $$NS$$ that minimizes $$\prod_i^n (d_i + 1)$$ . This "incentivizes" choosing a monomial where some of the individual degrees are minimal and others are larger. Note that (looking at monomials as tuples again,) (2,3,2) is a worse choice than (1,4,2). Whatever monomial is chosen, look at every decomposition of that monomial into $$m = m_1m_2$$. Define a new subproblem for each such decomposition by adding $$\{m_1,m_2\}\setminus V$$ to the variable set.
 
-the rest of the paper describes pruning rules for the algorithm. To me, the most interesting thing is the above minimization function! I always though we'd be better off cutting monomials "in half" across all variables. I was wrong! And the reasons are themselves very interesting - the kinds of monomial decompositions that minimize that product determine the order in which subproblems are investigated by the algorithm and allow the authors to argue that any optimal subproblem of $z_1,...,z_n$ is a solution of at least one of the children subproblems chosen by minimizing the product. 
+the rest of the paper describes pruning rules for the algorithm. To me, the most interesting thing is the above minimization function! I always though we'd be better off cutting monomials "in half" across all variables. I was wrong! And the reasons are themselves very interesting - the kinds of monomial decompositions that minimize that product determine the order in which subproblems are investigated by the algorithm and allow the authors to argue that any optimal subproblem of $$z_1,...,z_n$$ is a solution of at least one of the children subproblems chosen by minimizing the product. 
