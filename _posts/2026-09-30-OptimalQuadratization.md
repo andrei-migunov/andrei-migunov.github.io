@@ -48,11 +48,11 @@ The *(bounded)* lattice at peak $$\bf{a} = [i_1,i_2,...,i_n]$$ is the partially 
 So another way to 'see' it is that $M$ defines a lattice, more specifically some overlapping lattices each terminating at the elements of $$peaks(\bf{x})$$, but that lattice lives inside the *simplex* $$\Delta = \{ \bf{v} \in \mathbb{N}^n| \sum_i \bf{v}[i] \leq k\}$$, where $$k$$ is the highest degree among monomials in the system. I'm just naming it $$\Delta$$ because its faces are triangles if there are only 3 variables. To see what I mean, look at some of these pictures. $$\Delta$$ is blue, peaks are red, lattices are orange. 
 
 
-[![assets/img/3simplex2.png]]
+![3-Simplex](/assets/img/3simplex2.png)
 
 And here, purple are the partials resulting from the chain rule (without the associated derivatives multiplied onto them).
 
-[![assets/img/3simplex3.png]]
+![3-Simplex](/assets/img/3simplex3.png)
 
 Peaks don't have to live on any of the faces of $$\Delta$$. For example, $$[1,2,1]$$ would be a peak, as it's clearly $$\leq$$-incomparable to $$[3,1,3]$$.  - but it's not on any face. 
 
