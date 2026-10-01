@@ -16,9 +16,10 @@ It's a finite system, so it will of course have one or more maximal polynomials,
 
  If $$\bf{x}$$ is a set of ODEs expressed as right hand sides that are sums of monomials $m$ then the set of incomparable terms (or peaks) of the system is the antichain 
     
-$$peak(\bf{x})=$$ $$\{m \mid \text{m in }\bf{x}$$ and $$\forall m' \neq m$ in $\bf{x},$ $m \not\leq m'$$ and $$m' \not\leq m\}$$.
+$$peak(\bf{x})=$$ $$\{m \mid \text{m in }\bf{x}$$ and $$\forall m' \neq m$$ in $$\bf{x},$ $m \not\leq m'$$ and $$m' \not\leq m\}$$.
 
 and that might have more than one monomial in it.
+
 ## The goal
 
 The goal (our application) is to transform $$\bf{x}$$ into a system of maximum degree equal to 2. So, how? 
