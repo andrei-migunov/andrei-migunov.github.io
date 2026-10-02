@@ -46,7 +46,8 @@ Here's one way to put it:
     
 The *(bounded)* lattice at peak $$\bf{a} = [i_1,i_2,...,i_n]$$ is the partially ordered $$(\leq)$$ set $$L(\bf{a})$$ of all vectors $$\bf{b} \in \mathbb{N}^n$$ satisfying $$\bf{b} \leq \bf{a}$$. 
 
-So another way to 'see' it is that $$M$$ defines a lattice, more specifically some overlapping lattices each terminating at the elements of $$peaks(\bf{x})$$, but that lattice lives inside the *simplex* $$\Delta = \{ \bf{v} \in \mathbb{N}^n| \sum_i \bf{v}[i] \leq k\}$$, where $$k$$ is the highest degree among monomials in the system. I'm just naming it $$\Delta$$ because its faces are triangles if there are only 3 variables. To see what I mean, look at some of these pictures. $$\Delta$$ is blue, peaks are red, lattices are orange. 
+So another way to 'see' it is that $$M$$ defines a lattice, more specifically some overlapping lattices each terminating at the elements of $$peaks(\bf{x})$$, but that lattice lives inside the *simplex* $$ \Delta = \{ \bf{v} \in \mathbb{N}^n|$$ $$\sum_i \bf{v}[i] \leq k\}$$, where $$k$$ is the highest degree among monomials in the system. I'm just naming it $$\Delta$$ because its faces are triangles if there are only 3 variables. To see what I mean, look at some of these pictures. $$\Delta$$ is blue, peaks are red, lattices are orange. 
+
 
 
 ![3-Simplex](/assets/img/3simplex2.png)
