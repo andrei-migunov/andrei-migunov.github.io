@@ -11,12 +11,12 @@ related_posts: false
 
 Bychkov and Pogudin's paper *Optimal monomial quadratization for ODE systems* recently showed up in my life to solve a problem my friend and I had been working on for a while, and whose name (quadratization) we did not even know! It goes something like this (and all examples here are taken from their paper):
 
-You have a system $$\bf{x}$$ of ODEs, with variables $x_1, x_2, ..., x_n$ that are all polynomial, autonomous, and first order. Let's say the degree of a monomial is the sum of the degrees of variables in the monomial, e.g. $$deg(x^3y^2) = 5$$. The right hand side, though polynomial, has no restriction on the degree of any of the monomials appearing there. So, you might see something like this :$$ x_7' = ... + x_8^2x_9^{12}x_{13}  +...$$
+You have a system $$\bf{x}$$ of ODEs, with variables $$x_1, x_2, ..., x_n$$ that are all polynomial, autonomous, and first order. Let's say the degree of a monomial is the sum of the degrees of variables in the monomial, e.g. $$deg(x^3y^2) = 5$$. The right hand side, though polynomial, has no restriction on the degree of any of the monomials appearing there. So, you might see something like this :$$ x_7' = ... + x_8^2x_9^{12}x_{13}  +...$$
 It's a finite system, so it will of course have one or more maximal polynomials, thus there is a highest degree among them. Note, and this might matter later, that there might be different monomials that are 'incomparable' and share the highest degree:
 
  If $$\bf{x}$$ is a set of ODEs expressed as right hand sides that are sums of monomials $m$ then the set of incomparable terms (or peaks) of the system is the antichain 
     
-$$peak(\bf{x})=$$ $$\{m \mid \text{m in }\bf{x}$$ and $$\forall m' \neq m$$ in $$\bf{x},$ $m \not\leq m'$$ and $$m' \not\leq m\}$$.
+$$peak(\bf{x})=$$ $$\{m \mid \text{m in }\bf{x}$$ and $$\forall m' \neq m$$ in $$\bf{x},$$ $$m \not\leq m'$$ and $$m' \not\leq m\}$$.
 
 and that might have more than one monomial in it.
 
@@ -35,7 +35,7 @@ For example, we could also have split it up into these two terms: $$m = x_8 x_9^
 
 The authors express this as follows:
 
-If the system in question is $$\bf{x} = f_1(\bf{x}), f_2(\bf{x}), ..., f_n(\bf{x})$$ then let $D_i$ be the largest degree of the individual variable $$x_i$$ over all of the $$f_i$$. Then take the set $$M$$ of all conceivable monomials $$x_1^{d_1} x_2^{d_2}....x_n^{d_n}$$ where the $$0 \leq d_i \leq D_i$$. 
+If the system in question is $$\bf{x} = f_1(\bf{x}), f_2(\bf{x}), ..., f_n(\bf{x})$$ then let $$D_i$$ be the largest degree of the individual variable $$x_i$$ over all of the $$f_i$$. Then take the set $$M$$ of all conceivable monomials $$x_1^{d_1} x_2^{d_2}....x_n^{d_n}$$ where the $$0 \leq d_i \leq D_i$$. 
 
 The 'right choices', which result in the fewest total new variables introduced into the system, for *decomposing the system* into degree 2 polynomials are somewhere in this set $M$ - the whole set of selections of monomials that account for both the original monomials and for new ones. This is the *optimal decomposition* or in the case of quadratizations, the *optimal quadratization*. 
 
@@ -73,7 +73,7 @@ $$z_1 = x_1 x_2^2, \qquad z_2 = x_2^3, \qquad z_3 = x_1^3,$$
 
 and the rewriting of the original system in their terms, giving the quadratic system
 
-$$x_1' = x_2 z_2,$  $
+$$x_1' = x_2 z_2,$$
 
 $$z_1' = x_2^6 + 2x_1^3 x_2 = z_2^2 + 2x_2 z_3,$$
 
