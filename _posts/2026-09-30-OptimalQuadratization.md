@@ -90,7 +90,7 @@ so it cannot be found by a search restricted to $$M$$.
 
 However, it *does* live in the associated simplex because the highest degree among all monomials in the original system is 4, and in the resulting system the highest degree is the same, and among new variables only 3.
 
-The authors mention that for their examples, the set $$\hat{M} = \{x_1^{d_1}...x_n^{d_n} | 0 \leq d_1,....,d_n \leq D\},$$ where $$D = \max_i D_i$$ was sufficient. I'd be surprised if this is the case in general, I think! Note that $$\hat{M} \subset\Delta$$ . 
+The authors mention that for their examples, the set $$\hat{M} = \{x_1^{d_1}...x_n^{d_n} | 0 \leq d_1,....,d_n \leq D\},$$ where $$D = \max_i D_i$$ was sufficient. I'd be surprised if this is the case in general, I think! Note that $$\hat{M} \subset \Delta$$ . 
 
 I'm not sure I see it - but I'm also kind of slow to pick up on things. So that's *not* a claim about anything but me, at this moment of typing.
 
