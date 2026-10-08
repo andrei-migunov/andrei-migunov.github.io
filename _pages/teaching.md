@@ -165,7 +165,7 @@ horizontal: false
                       <a>CS 66: Intro to Computer Science II</a>                   
                                       </li>                  
                   <li>                    
-                      <a href="https://analytics.drake.edu/~migunov/CS87/index">CS 87: Aesthetics of Computation</a>                   
+                      <a href="https://analytics.drake.edu/~migunov/CS87/">CS 87: Aesthetics of Computation</a>                   
                                       </li>
                 </ul>
               </div>
